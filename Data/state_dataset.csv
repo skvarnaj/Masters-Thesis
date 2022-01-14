@@ -1,0 +1,51 @@
+state,CO2_per_capita,partisanship,governor,governor_party,climate_alliance
+Alabama,23.2,27.0,Kay Ivey,Republican ,False
+Alaska,47.6,15.0,Mike Dunleavy,Republican ,False
+Arizona,13.1,9.0,Doug Ducey,Republican ,False
+Arkansas,23.6,24.0,Asa Hutchinson,Republican ,False
+California,9.0,-24.0,Gavin Newsom,Democratic ,True
+Colorado,15.9,-1.0,Jared Polis,Democratic ,True
+Connecticut,10.5,-11.0,Ned Lamont,Democratic ,True
+Delaware,13.8,-14.0,John C. Carney Jr.,Democratic ,True
+Florida,11.4,5.0,Ron DeSantis,Republican ,False
+Georgia,13.6,12.0,Brian Kemp,Republican ,False
+Hawaii,14.4,-36.0,David Ige,Democratic ,True
+Idaho,10.8,35.0,Brad Little,Republican ,False
+Illinois,16.7,-13.0,J.B. Pritzker,Democratic ,True
+Indiana,28.2,18.0,Eric Holcomb,Republican ,False
+Iowa,26.3,6.0,Kim Reynolds,Republican ,False
+Kansas,21.4,23.0,Laura Kelly,Democratic ,False
+Kentucky,27.1,23.0,Andy Beshear,Democratic ,False
+Louisiana,42.7,17.0,John Bel Edwards,Democratic ,True
+Maine,11.0,-5.0,Janet T. Mills,Democratic ,True
+Maryland,10.2,-23.0,Larry Hogan,Republican ,True
+Massachusetts,9.4,-29.0,Charles D. Baker,Republican ,True
+Michigan,16.4,-1.0,Gretchen Whitmer,Democratic ,True
+Minnesota,17.0,-2.0,Tim Walz,Democratic ,True
+Mississippi,21.2,15.0,Tate Reeves,Republican ,False
+Missouri,20.4,19.0,Mike Parson,Republican ,False
+Montana,29.0,18.0,Greg Gianforte,Republican ,False
+Nebraska,27.2,24.0,Pete Ricketts,Republican ,False
+Nevada,13.5,1.0,Steve Sisolak,Democratic ,True
+New Hampshire,10.5,2.0,Chris Sununu,Republican ,False
+New Jersey,11.9,-13.0,Phil Murphy,Democratic ,True
+New Mexico,21.7,-7.0,Michelle Lujan Grisham,Democratic ,True
+New York,9.0,-22.0,Kathy Hochul,Democratic ,True
+North Carolina,12.0,5.0,Roy Cooper,Democratic ,True
+North Dakota,77.7,33.0,Doug Burgum,Republican ,False
+Ohio,17.9,7.0,Richard Michael DeWine,Republican ,False
+Oklahoma,24.8,34.0,Kevin Stitt,Republican ,False
+Oregon,9.5,-9.0,Kate Brown,Democratic ,True
+Pennsylvania,17.2,1.0,Tom Wolf,Democratic ,True
+Rhode Island,10.5,-26.0,Daniel McKee,Democratic ,True
+South Carolina,14.4,17.0,Henry McMaster,Republican ,False
+South Dakota,17.7,31.0,Kristi L. Noem,Republican ,False
+Tennessee,14.0,28.0,Bill Lee,Republican ,False
+Texas,23.9,17.0,Greg Abbott,Republican ,False
+Utah,19.4,31.0,Spencer Cox,Republican ,False
+Vermont,9.4,-24.0,Phil Scott,Republican ,True
+Virginia,12.7,0.0,Ralph Northam,Democratic ,True
+Washington,10.2,-12.0,Jay Inslee,Democratic ,True
+West Virginia,49.8,30.0,Jim Justice,Republican ,False
+Wisconsin,17.6,1.0,Tony Evers,Democratic ,True
+Wyoming,109.9,47.0,Mark Gordon,Republican ,False

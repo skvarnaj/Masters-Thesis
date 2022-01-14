@@ -1,0 +1,501 @@
+Urban Cluster	Country	Population	Footprint (Mt CO2)	1StdDev	Footprint/Cap (t CO2/cap)	ClusterID	Global ranking
+Hong Kong SAR	China	6029000		3.780000e+01	34.6 &plusmn;6.3	13847	1
+Mohammed Bin Zayed City	UAE	188000		5.300000e+00	32.9 &plusmn;27.9	5292	2
+Abu Dhabi	UAE	911000		1.560000e+01	32.9 &plusmn;17.1	5288	3
+Country of Singapore	Singapore	5235000		3.410000e+01	30.8 &plusmn;6.5	13845	4
+Hulun Buir	China	198000		6.400000e+00	30.0 &plusmn;32.3	10441	5
+Al-Ahmadi	Kuwait	2697000		1.930000e+01	29.9 &plusmn;7.2	5121	6
+Doha	Qatar	1128000		1.150000e+01	28.7 &plusmn;10.2	5243	7
+Hinggan	China	242000		7.100000e+00	28.6 &plusmn;29.3	10884	8
+Chifeng	China	677000		11	28.0 &plusmn;16.2	11095	9
+Al-Jahrah	Kuwait	178000		3.300000e+00	27.2 &plusmn;18.4	5116	10
+Litong	China	270000		6.600000e+00	26.3 &plusmn;24.4	10433	11
+New Orleans	USA	596000		7.800000e+00	26.1 &plusmn;13.0	373	12
+Detroit	USA	2770000		1.540000e+01	25.5 &plusmn;5.6	16079	13
+Tongliao	China	561000		9.900000e+00	25.5 &plusmn;17.7	11341	14
+Yinchuan	China	1338000		1.720000e+01	25.3 &plusmn;12.8	10409	15
+Al Ain	UAE	738000		9.900000e+00	25.1 &plusmn;13.4	24228	16
+Cleveland	USA	973000		8.800000e+00	24.7 &plusmn;9.0	726	17
+Ulanqab	China	275000		6.400000e+00	24.5 &plusmn;23.1	10624	18
+St. Louis	USA	1177000		9.600000e+00	24.1 &plusmn;8.2	448	19
+Dalad	China	171000		4.700000e+00	24.0 &plusmn;27.4	10489	20
+Pittsburgh	USA	602000		6.300000e+00	24.0 &plusmn;10.4	753	21
+Toledo	USA	257000		3.500000e+00	22.8 &plusmn;13.5	696	22
+Kansas City	USA	1004000		7.400000e+00	22.6 &plusmn;7.4	386	23
+Gold Coast	Australia	342000		3.300000e+00	22.6 &plusmn;9.7	13816	24
+Grand Rapids	USA	315000		3.700000e+00	22.6 &plusmn;11.7	671	25
+Cincinnati	USA	521000		4.600000e+00	22.6 &plusmn;8.9	632	26
+Tulsa	USA	386000		4	22.6 &plusmn;10.3	359	27
+Akron	USA	209000		2.600000e+00	22.6 &plusmn;12.6	727	28
+Dubai	UAE	4971000		31	22.3 &plusmn;6.2	5297	29
+Huhot	China	1796000		1.820000e+01	22.0 &plusmn;10.1	10542	30
+Dayton	USA	278000		3.400000e+00	21.8 &plusmn;12.1	649	31
+Minneapolis	USA	1518000		9.800000e+00	21.8 &plusmn;6.4	522	32
+Fort Wayne	USA	153000		2.100000e+00	21.5 &plusmn;13.7	654	33
+Louisville	USA	575000		4.900000e+00	21.5 &plusmn;8.6	578	34
+Moline/Davenport	USA	168000		2	21.3 &plusmn;12.2	505	35
+Wichita	USA	267000		3	21.3 &plusmn;11.1	358	36
+Burnsville, MN	USA	152000		2	21.2 &plusmn;12.9	521	37
+Des Moines	USA	172000		2.600000e+00	21.1 &plusmn;15.1	440	38
+Chicago	USA	7260000		3.720000e+01	21.1 &plusmn;5.1	587	39
+Rockford, IL	USA	174000		2.300000e+00	21.0 &plusmn;13.0	580	40
+St. Petersburg	USA	798000		6.600000e+00	21.0 &plusmn;8.3	462	41
+Oklahoma City	USA	530000		4.700000e+00	20.8 &plusmn;8.9	336	42
+Memphis	USA	266000		2.500000e+00	20.8 &plusmn;9.5	418	43
+Riyadh	Saudi Arabia	5747000		2.640000e+01	20.7 &plusmn;4.6	5119	44
+Indianapolis	USA	938000		5.300000e+00	20.6 &plusmn;5.7	604	45
+Naples, FL	USA	200000		2.500000e+00	20.5 &plusmn;12.4	471	46
+Milwaukee	USA	821000		7.300000e+00	20.4 &plusmn;8.9	628	47
+Richmond	USA	280000		3.100000e+00	20.3 &plusmn;10.9	760	48
+Baltimore	USA	1254000		1.140000e+01	20.2 &plusmn;9.1	803	49
+Dongsheng	China	448000		8.700000e+00	20.1 &plusmn;19.5	10510	50
+Omaha	USA	484000		4.200000e+00	19.9 &plusmn;8.8	392	51
+Newcastle	Australia	209000		2.100000e+00	19.9 &plusmn;9.8	13794	52
+Ad Damman	Saudi Arabia	1611000		1.080000e+01	19.8 &plusmn;6.7	5205	53
+Columbus	USA	1003000		8.500000e+00	19.8 &plusmn;8.5	675	54
+Sarasota	USA	434000		3.900000e+00	19.8 &plusmn;9.0	461	55
+Buffalo	USA	570000		5.700000e+00	19.8 &plusmn;10.0	16274	56
+Philadelphia	USA	3591000		1.950000e+01	19.5 &plusmn;5.4	826	57
+Denver	USA	1824000		1.110000e+01	19.4 &plusmn;6.1	272	58
+Oakland	USA	398000		4.200000e+00	19.3 &plusmn;10.6	19	59
+Newport News	USA	251000		2.700000e+00	19.3 &plusmn;10.8	774	60
+Jeddah	Saudi Arabia	3287000		2.190000e+01	19.2 &plusmn;6.7	4492	61
+Brisbane	Australia	1644000		7.100000e+00	19.1 &plusmn;4.3	13814	62
+Hartford	USA	568000		5.900000e+00	19.0 &plusmn;10.4	904	63
+Boston	USA	1950000		1.640000e+01	19.0 &plusmn;8.4	932	64
+Washington D.C.	USA	3285000		1.470000e+01	19.0 &plusmn;4.5	780	65
+Lakewood Township	USA	533000		4.500000e+00	18.9 &plusmn;8.4	863	66
+Detroit	Canada	211000		2.600000e+00	18.9 &plusmn;12.4	714	67
+Providence	USA	534000		5.300000e+00	18.8 &plusmn;9.9	923	68
+Fremantle	Australia	1276000		7.600000e+00	18.8 &plusmn;5.9	12324	69
+Atlanta	USA	1860000		9.300000e+00	18.7 &plusmn;5.0	520	70
+Bayan Nur	China	293000		5.100000e+00	18.5 &plusmn;17.3	10375	71
+Baotou	China	1991000		1.690000e+01	18.5 &plusmn;8.5	10467	72
+Norfolk	USA	696000		5.200000e+00	18.4 &plusmn;7.5	772	73
+Al Jubail	Saudi Arabia	187000		2.900000e+00	18.3 &plusmn;15.5	5184	74
+Frankfort	USA	219000		2.500000e+00	18.2 &plusmn;11.5	615	75
+Shapotou	China	177000		3.900000e+00	18.2 &plusmn;22.1	10406	76
+Spokane	USA	204000		2.400000e+00	18.1 &plusmn;11.6	243	77
+Lincoln	USA	186000		2.600000e+00	18.0 &plusmn;14.2	384	78
+Baton Rouge	USA	230000		2.100000e+00	17.9 &plusmn;9.1	371	79
+Syracuse	USA	187000		2.100000e+00	17.8 &plusmn;11.0	869	80
+Colorado Springs	USA	344000		3.400000e+00	17.8 &plusmn;9.9	265	81
+Springfield, MA	USA	291000		2.100000e+00	17.7 &plusmn;7.3	919	82
+Nashville	USA	315000		3	17.6 &plusmn;9.6	496	83
+Khabarovsk	Russia	495000		5.500000e+00	17.5 &plusmn;11.0	12307	84
+San Jose	USA	4003000		1.970000e+01	17.5 &plusmn;4.9	11	85
+Rochester	USA	306000		4.200000e+00	17.5 &plusmn;13.9	836	86
+Werribee	Australia	181000		2.200000e+00	17.4 &plusmn;12.1	13771	87
+Seattle	USA	1973000		11	17.3 &plusmn;5.6	147	88
+Laurel, MD	USA	223000		2	17.2 &plusmn;9.0	796	89
+Bridgeport-Stamford	USA	612000		4.800000e+00	17.1 &plusmn;7.8	888	90
+New York	USA	13648000		7.540000e+01	17.1 &plusmn;5.5	864	91
+Harrisburg	USA	220000		2.900000e+00	17.1 &plusmn;13.0	810	92
+Tucson	USA	519000		3.900000e+00	17.1 &plusmn;7.6	88	93
+Albuquerque	USA	431000		3.900000e+00	17.0 &plusmn;9.0	197	94
+Jacksonville	USA	552000		3.500000e+00	17.0 &plusmn;6.3	554	95
+Regina	Canada	159000		1.800000e+00	16.8 &plusmn;11.1	429	96
+Salem	USA	150000		1.700000e+00	16.8 &plusmn;11.4	95	97
+Adelaide	Australia	843000		5.400000e+00	16.7 &plusmn;6.4	13722	98
+Ulsan	South Korea	922000		5.600000e+00	16.7 &plusmn;6.1	13410	99
+London	Canada	329000		3.300000e+00	16.7 &plusmn;10.1	764	100
+Nizhny Tagil	Russia	258000		2.600000e+00	16.7 &plusmn;9.9	4870	101
+Portland	USA	1163000		9.300000e+00	16.7 &plusmn;8.0	104	102
+Santa Clarita	USA	162000		1.900000e+00	16.6 &plusmn;11.6	25	103
+Allentown	USA	359000		3.400000e+00	16.6 &plusmn;9.5	837	104
+Chonju	South Korea	623000		5.800000e+00	16.6 &plusmn;9.4	13312	105
+Columbia	USA	177000		1.600000e+00	16.6 &plusmn;8.9	637	106
+Corpus Christi	USA	179000		1.800000e+00	16.6 &plusmn;10.2	254	107
+Lubbock	USA	183000		2.200000e+00	16.5 &plusmn;12.2	248	108
+Saskatoon	Canada	182000		2.100000e+00	16.5 &plusmn;11.5	432	109
+Dallas	USA	4674000		16	16.5 &plusmn;3.4	310	110
+Chilgok	South Korea	304000		4.300000e+00	16.4 &plusmn;14.0	13372	111
+Boise	USA	167000		2.200000e+00	16.3 &plusmn;13.3	173	112
+Cheonan	South Korea	581000		5	16.3 &plusmn;8.7	13227	113
+Albany	USA	227000		2.600000e+00	16.3 &plusmn;11.5	901	114
+Carson City	USA	213000		2.200000e+00	16.2 &plusmn;10.3	73	115
+Unayzha	Saudi Arabia	284000		2.800000e+00	16.1 &plusmn;9.9	4936	116
+Worcester	USA	166000		2.200000e+00	16.1 &plusmn;13.1	925	117
+Hilo	USA	400000		4.900000e+00	16.0 &plusmn;12.3	3	118
+Miami	USA	5031000		2.190000e+01	16.0 &plusmn;4.4	513	119
+Eugene, OR	USA	181000		1.700000e+00	15.9 &plusmn;9.4	87	120
+Phoenix	USA	3279000		15	15.9 &plusmn;4.6	84	121
+Spring Valley, NY	USA	151000		1.700000e+00	15.8 &plusmn;11.4	877	122
+Victoria	Canada	162000		1.900000e+00	15.8 &plusmn;12.0	162	123
+Iqaluit	Canada	434000		3.300000e+00	15.7 &plusmn;7.5	961	124
+Waterloo	Canada	282000		2.700000e+00	15.6 &plusmn;9.5	789	125
+Salt Lake City	USA	918000		5.500000e+00	15.5 &plusmn;6.0	194	126
+Astana	Kazakhstan	832000		6.900000e+00	15.5 &plusmn;8.2	5318	127
+Carslbad	USA	538000		4.400000e+00	15.5 &plusmn;8.1	28	128
+Komsomolsk-on-Amur	Russia	174000		1.700000e+00	15.4 &plusmn;10.0	12019	129
+Melbourne, FL	USA	236000		1.500000e+00	15.4 &plusmn;6.4	556	130
+Palm Springs	USA	299000		2.300000e+00	15.4 &plusmn;7.5	61	131
+Yinzhuzhen	China	308000		3.500000e+00	15.4 &plusmn;11.3	12505	132
+Oshawa	Canada	252000		2.400000e+00	15.4 &plusmn;9.7	825	133
+Atyrau	Kazakhstan	230000		2.700000e+00	15.3 &plusmn;11.8	4908	134
+Tampa	USA	689000		4.300000e+00	15.3 &plusmn;6.3	478	135
+San Antonio	USA	1262000		6.100000e+00	15.2 &plusmn;4.9	251	136
+Belgorod	Russia	315000		3	15.2 &plusmn;9.5	3512	137
+Unknown city at lat/lon 24.0, 38.2	Saudi Arabia	207000		2.300000e+00	15.2 &plusmn;11.3	4353	138
+Buraydah	Saudi Arabia	304000		2.700000e+00	15.1 &plusmn;8.8	4927	139
+Edmonton	Canada	796000		4.600000e+00	15.1 &plusmn;5.8	377	140
+Mecca	Saudi Arabia	1181000		8.400000e+00	15.1 &plusmn;7.1	4592	141
+Ch'unch'on	South Korea	208000		3.100000e+00	15.1 &plusmn;14.7	13191	142
+Unknown city at lat/lon 21.5, 39.9	Saudi Arabia	213000		2.500000e+00	15.0 &plusmn;11.6	4615	143
+Austin	USA	955000		4.800000e+00	15.0 &plusmn;5.1	270	144
+Chatanga	Russia	160000		2	15.0 &plusmn;12.8	9641	145
+Medina	Saudi Arabia	947000		5.600000e+00	14.9 &plusmn;5.9	4483	146
+Calgary	Canada	997000		5.200000e+00	14.9 &plusmn;5.2	344	147
+Changwon	South Korea	697000		6	14.9 &plusmn;8.6	13400	148
+Winnipeg	Canada	605000		4.500000e+00	14.8 &plusmn;7.4	579	149
+Vancouver, WA	USA	266000		2.200000e+00	14.8 &plusmn;8.3	110	150
+Lipetsk	Russia	380000		3	14.8 &plusmn;7.9	3670	151
+Unknown city at lat/lon 24.2, 47.3	Saudi Arabia	165000		1.600000e+00	14.8 &plusmn;9.9	5139	152
+Ch'ungju	South Korea	674000		6.200000e+00	14.7 &plusmn;9.2	13272	153
+Orlando	USA	1436000		6.500000e+00	14.7 &plusmn;4.5	532	154
+Raleigh	USA	343000		2.400000e+00	14.7 &plusmn;7.1	710	155
+Houston	USA	4524000		1.810000e+01	14.6 &plusmn;4.0	300	156
+Uttyakh	Russia	216000		2.700000e+00	14.6 &plusmn;12.5	8928	157
+Los Angeles	USA	13482000		4.370000e+01	14.6 &plusmn;3.2	15	158
+El Paso	USA	463000		4	14.6 &plusmn;8.5	14661	159
+Unknown city at lat/lon 53.4, 59.0	Russia	301000		2.900000e+00	14.5 &plusmn;9.6	5042	160
+Charlotte	USA	353000		2.700000e+00	14.5 &plusmn;7.5	653	161
+San Diego	USA	1942000		8.600000e+00	14.5 &plusmn;4.4	14403	162
+Unknown city at lat/lon 35.2, 128.1	South Korea	240000		2.600000e+00	14.5 &plusmn;11.0	13392	163
+Lake Ridge, VA	USA	200000		1.900000e+00	14.3 &plusmn;9.6	778	164
+Antioch, CA	USA	229000		2.500000e+00	14.3 &plusmn;10.9	27	165
+Al Hofuf	Saudi Arabia	1091000		7.600000e+00	14.2 &plusmn;6.9	5203	166
+Sacramento	USA	1484000		7.300000e+00	14.2 &plusmn;4.9	52	167
+Unknown city at lat/lon 44.7, 37.8	Russia	187000		1.500000e+00	14.2 &plusmn;8.0	3849	168
+Unknown city at lat/lon 37.4, 127.9	South Korea	228000		3.100000e+00	14.1 &plusmn;13.5	13256	169
+Tsentral'nyy Rayon	Russia	429000		3.500000e+00	14.1 &plusmn;8.2	4389	170
+Pavlodar	Kazakhstan	279000		3.300000e+00	14.0 &plusmn;11.9	5363	171
+Melbourne	Australia	3185000		1.120000e+01	13.9 &plusmn;3.5	13776	172
+Almaty	Kazakhstan	1814000		8.800000e+00	13.9 &plusmn;4.8	5588	173
+Unknown city at lat/lon 36.0, 129.4	South Korea	316000		2.500000e+00	13.9 &plusmn;7.8	13399	174
+Ha'il	Saudi Arabia	223000		1.800000e+00	13.8 &plusmn;8.0	4690	175
+Omsk	Russia	951000		6.300000e+00	13.8 &plusmn;6.6	5295	176
+Pusan	South Korea	3064000		1.560000e+01	13.8 &plusmn;5.1	13406	177
+Unknown city at lat/lon 43.9, -79.1	Canada	161000		1.600000e+00	13.7 &plusmn;9.6	823	178
+Unknown city at lat/lon 35.3, 129.0	South Korea	163000		1.700000e+00	13.7 &plusmn;10.3	13408	179
+Panjin	China	181000		1.700000e+00	13.7 &plusmn;9.1	11826	180
+Modesto	USA	258000		2.600000e+00	13.7 &plusmn;9.9	37	181
+Kursk	Russia	327000		2.600000e+00	13.6 &plusmn;7.9	3461	182
+Unknown city at lat/lon 36.0, 127.0	South Korea	186000		2.300000e+00	13.6 &plusmn;12.1	13291	183
+Oxnard	USA	261000		2.900000e+00	13.5 &plusmn;10.9	9	184
+Ust' Ordynskiy	Russia	527000		3.500000e+00	13.4 &plusmn;6.6	7805	185
+Kaliningrad	Russia	367000		3.500000e+00	13.3 &plusmn;9.5	2933	186
+Fresno	USA	575000		3.200000e+00	13.3 &plusmn;5.5	50	187
+Ural'sk	Kazakhstan	232000		2	13.2 &plusmn;8.5	4647	188
+Tula	Russia	429000		3.600000e+00	13.2 &plusmn;8.5	3468	189
+Bratislava	Slovakia	318000		3.500000e+00	13.2 &plusmn;10.9	21799	190
+Xinzhou	China	266000		3.300000e+00	13.2 &plusmn;12.5	10838	191
+Kwangju	South Korea	1408000		7.800000e+00	13.2 &plusmn;5.6	13349	192
+Hamilton	Canada	404000		3.300000e+00	13.1 &plusmn;8.3	797	193
+Aktyubinsk	Kazakhstan	409000		3.700000e+00	13.1 &plusmn;9.1	5076	194
+Ottawa	Canada	606000		3.700000e+00	13.1 &plusmn;6.1	908	195
+Ulan Ude	Russia	308000		2.300000e+00	13.0 &plusmn;7.5	8657	196
+Tver	Russia	331000		2.400000e+00	13.0 &plusmn;7.3	3328	197
+Tolyatti	Russia	442000		3.400000e+00	13.0 &plusmn;7.6	4306	198
+Linfen	China	611000		5.600000e+00	13.0 &plusmn;9.2	10961	199
+Seoul	South Korea	21254000		5.180000e+01	13.0 &plusmn;2.4	13127	200
+Huairen	China	152000		1.600000e+00	13.0 &plusmn;10.3	10714	201
+Semipalatinsk	Kazakhstan	259000		2.100000e+00	13.0 &plusmn;8.1	5507	202
+Mangyshlak	Kazakhstan	222000		2.100000e+00	12.9 &plusmn;9.3	4981	203
+Chelyabinsk	Russia	1019000		5.900000e+00	12.9 &plusmn;5.8	5074	204
+Arkangel'sk	Russia	169000		1.800000e+00	12.9 &plusmn;10.5	3290	205
+Yuci	China	452000		4.700000e+00	12.9 &plusmn;10.4	10928	206
+Fuxin	China	674000		5.300000e+00	12.9 &plusmn;7.9	11564	207
+Kotlas	Russia	239000		2.100000e+00	12.9 &plusmn;8.9	4105	208
+Changzhi	China	590000		5.500000e+00	12.9 &plusmn;9.4	11163	209
+Xioyi	China	188000		2.300000e+00	12.8 &plusmn;12.5	10904	210
+Krasnoyarsk	Russia	798000		5.600000e+00	12.8 &plusmn;7.0	5692	211
+Volgograd	Russia	583000		3.400000e+00	12.8 &plusmn;5.8	4223	212
+Ryazan	Russia	441000		3.300000e+00	12.7 &plusmn;7.5	3574	213
+Nassau	Bahamas	186000		1.100000e+00	12.7 &plusmn;5.9	619	214
+Tokers Green	UK	213000		2	12.6 &plusmn;9.2	1732	215
+Unknown city at lat/lon 37.5, 118.5	China	479000		4.500000e+00	12.6 &plusmn;9.5	11916	216
+Unknown city at lat/lon 35.0, 111.0	China	310000		2.700000e+00	12.6 &plusmn;8.7	11021	217
+Unknown city at lat/lon 44.1, 43.1	Russia	213000		1.900000e+00	12.6 &plusmn;9.1	4274	218
+Unknown city at lat/lon 28.4, 46.0	Saudi Arabia	233000		2.700000e+00	12.6 &plusmn;11.8	5022	219
+Voronezh	Russia	794000		5.200000e+00	12.6 &plusmn;6.5	3681	220
+Ust'-Kamenogorsk	Kazakhstan	280000		2.500000e+00	12.6 &plusmn;9.0	5576	221
+Edinburgh	UK	322000		2.500000e+00	12.6 &plusmn;7.7	1617	222
+Kaluga	Russia	221000		2.700000e+00	12.6 &plusmn;12.0	3395	223
+Penza	Russia	416000		3	12.5 &plusmn;7.3	4075	224
+Liaoyang	China	628000		7.400000e+00	12.5 &plusmn;11.7	12002	225
+Unknown city at lat/lon 53.6, 55.9	Russia	260000		2.800000e+00	12.5 &plusmn;10.9	4874	226
+Kazan'	Russia	953000		4.500000e+00	12.5 &plusmn;4.8	4207	227
+Astrakhan	Russia	498000		3.400000e+00	12.5 &plusmn;6.7	4590	228
+Kemerovo	Russia	391000		3.500000e+00	12.5 &plusmn;9.0	5496	229
+Unknown city at lat/lon 47.2, 38.9	Russia	208000		1.800000e+00	12.4 &plusmn;8.8	3858	230
+Yaroslavl	Russia	498000		3.500000e+00	12.4 &plusmn;7.1	3467	231
+Taejon	South Korea	1551000		8	12.4 &plusmn;5.2	13283	232
+Unknown city at lat/lon 35.5, 112.8	China	475000		5.500000e+00	12.4 &plusmn;11.5	11222	233
+Las Vegas	USA	1904000		9.100000e+00	12.3 &plusmn;4.8	79	234
+Krasnodar	Russia	698000		3.500000e+00	12.3 &plusmn;5.0	3929	235
+Unknown city at lat/lon 37.1, 111.8	China	198000		2.100000e+00	12.3 &plusmn;10.6	10876	236
+Unknown city at lat/lon 48.5, 44.6	Russia	179000		2.100000e+00	12.3 &plusmn;11.6	4236	237
+Unknown city at lat/lon 42.3, 123.8	China	175000		2.300000e+00	12.3 &plusmn;13.1	11919	238
+Petrozavodsk	Russia	187000		1.600000e+00	12.2 &plusmn;8.7	3199	239
+Tabuk	Saudi Arabia	405000		4	12.2 &plusmn;10.0	4178	240
+Novosibirsk	Russia	1229000		7	12.2 &plusmn;5.7	5411	241
+Unknown city at lat/lon 26.6, -82.0	USA	164000		1.200000e+00	12.2 &plusmn;7.1	468	242
+Unknown city at lat/lon 26.2, -98.2	USA	175000		1.400000e+00	12.2 &plusmn;8.0	241	243
+Novokuznetsk	Russia	380000		3.800000e+00	12.2 &plusmn;9.9	5577	244
+Unknown city at lat/lon 59.1, 37.9	Russia	225000		2.300000e+00	12.2 &plusmn;10.0	3352	245
+Kostanay	Kazakhstan	181000		1.800000e+00	12.2 &plusmn;9.7	5186	246
+Unknown city at lat/lon 48.8, 44.8	Russia	243000		2.100000e+00	12.1 &plusmn;8.6	4237	247
+Pskov	Russia	172000		2	12.1 &plusmn;11.4	3127	248
+Unknown city at lat/lon 37.8, 113.5	China	612000		6	12.1 &plusmn;9.8	11015	249
+Vologda	Russia	258000		2	12.1 &plusmn;7.6	3417	250
+Altay	China	205000		2.800000e+00	12.1 &plusmn;13.6	7964	251
+Schoot	Netherlands	295000		2	12.1 &plusmn;6.8	2039	252
+Jinzhou	China	844000		5.400000e+00	12.1 &plusmn;6.5	11658	253
+Saint George's	Trinidad and Tobago	389000		2.300000e+00	12.1 &plusmn;6.0	903	254
+Unknown city at lat/lon 46.6, 124.9	China	426000		3.100000e+00	12.0 &plusmn;7.3	11126	255
+Novgorod	Russia	160000		1.700000e+00	12.0 &plusmn;10.5	3180	256
+Petropavlovsk	Kazakhstan	179000		1.700000e+00	12.0 &plusmn;9.4	5256	257
+Unknown city at lat/lon 52.6, 103.9	Russia	152000		1.600000e+00	12.0 &plusmn;10.3	7664	258
+Sverdlovsk	Russia	980000		5.600000e+00	12.0 &plusmn;5.7	4953	259
+Unknown city at lat/lon 51.4, 0.5	UK	201000		1.900000e+00	12.0 &plusmn;9.5	1830	260
+Unknown city at lat/lon 36.1, 136.2	Japan	172000		1.400000e+00	12.0 &plusmn;8.4	13597	261
+Jülge	Turkmenistan	184000		1.600000e+00	11.9 &plusmn;8.5	5268	262
+Kyzylorda	Kazakhstan	213000		2.700000e+00	11.9 &plusmn;12.5	5308	263
+Kostroma	Russia	207000		2.300000e+00	11.9 &plusmn;11.1	3524	264
+Vitoria	Spain	164000		2.100000e+00	11.9 &plusmn;12.8	1620	265
+Stavropol	Russia	411000		2.800000e+00	11.9 &plusmn;6.9	4181	266
+Unknown city at lat/lon 36.8, 117.8	China	263000		2.700000e+00	11.9 &plusmn;10.1	11908	267
+Baerum	Norway	713000		4.800000e+00	11.9 &plusmn;6.8	2329	268
+Gor'kiy	Russia	1158000		6.600000e+00	11.9 &plusmn;5.7	3824	269
+Unknown city at lat/lon 37.5, 111.1	China	245000		3.300000e+00	11.9 &plusmn;13.5	10744	270
+Ashgabat	Turkmenistan	889000		6	11.8 &plusmn;6.8	5271	271
+Unknown city at lat/lon 35.7, 51.8	Iran	264000		2.700000e+00	11.8 &plusmn;10.1	5162	272
+Unknown city at lat/lon 42.9, 125.1	China	410000		3.700000e+00	11.8 &plusmn;9.1	11984	273
+Unknown city at lat/lon 38.0, -121.3	USA	316000		2.500000e+00	11.8 &plusmn;7.8	36	274
+Chardzhev	Turkmenistan	332000		3.300000e+00	11.8 &plusmn;9.9	5331	275
+Unknown city at lat/lon 57.2, -2.1	UK	165000		2	11.7 &plusmn;12.1	1675	276
+Unknown city at lat/lon 38.7, 117.5	China	206000		2.100000e+00	11.7 &plusmn;10.4	11489	277
+Daqing	China	379000		2.500000e+00	11.7 &plusmn;6.5	11148	278
+Arnhem	Netherlands	172000		1.300000e+00	11.7 &plusmn;7.4	2059	279
+Shihar	Saudi Arabia	592000		3.800000e+00	11.7 &plusmn;6.4	4688	280
+Sydney	Australia	3533000		1.060000e+01	11.7 &plusmn;3.0	13793	281
+Ivanovo	Russia	356000		2.500000e+00	11.7 &plusmn;7.0	3559	282
+Unknown city at lat/lon 43.2, 124.4	China	502000		4.500000e+00	11.7 &plusmn;9.0	11822	283
+Bristol	UK	553000		3.800000e+00	11.6 &plusmn;6.9	1639	284
+Unknown city at lat/lon 51.8, 5.8	Netherlands	157000		1.300000e+00	11.6 &plusmn;8.5	2053	285
+Torshavn	UK	893000		4.900000e+00	11.6 &plusmn;5.5	1582	286
+Tsuchiura	Japan	203000		1.300000e+00	11.6 &plusmn;6.4	13737	287
+Utrecht	Netherlands	471000		3	11.6 &plusmn;6.3	2011	288
+Unknown city at lat/lon 51.6, 5.1	Netherlands	180000		2	11.6 &plusmn;11.1	2013	289
+Vladimir	Russia	207000		1.700000e+00	11.5 &plusmn;8.2	3564	290
+Tel Aviv-Yafo	Israel	2653000		9.600000e+00	11.5 &plusmn;3.6	3933	291
+Unknown city at lat/lon 36.4, 140.5	Japan	276000		1.500000e+00	11.5 &plusmn;5.5	13733	292
+Datong, Shanxi	China	1517000		10	11.5 &plusmn;6.6	10699	293
+Unknown city at lat/lon 52.6, 1.3	UK	162000		1.600000e+00	11.5 &plusmn;9.8	1857	294
+Taldykorgan	Kazakhstan	174000		2.100000e+00	11.5 &plusmn;12.2	5596	295
+Unknown city at lat/lon 45.1, 124.8	China	500000		4.300000e+00	11.5 &plusmn;8.6	11423	296
+Zibo	China	1687000		7.200000e+00	11.5 &plusmn;4.3	11939	297
+Unknown city at lat/lon 39.1, 117.7	China	401000		2.800000e+00	11.5 &plusmn;7.1	11447	298
+Unknown city at lat/lon 38.8, 117.4	China	361000		3	11.5 &plusmn;8.4	11452	299
+Unknown city at lat/lon 50.9, 6.0	Netherlands	187000		1.400000e+00	11.5 &plusmn;7.4	20858	300
+Sheffield	UK	704000		5.200000e+00	11.4 &plusmn;7.4	1696	301
+Orel	Russia	272000		2.400000e+00	11.4 &plusmn;8.9	3427	302
+Unknown city at lat/lon 55.8, -4.0	UK	243000		1.500000e+00	11.4 &plusmn;6.2	1593	303
+Unknown city at lat/lon 47.7, 40.2	Russia	172000		1.400000e+00	11.3 &plusmn;8.3	3932	304
+Bern	Switzerland	176000		2	11.3 &plusmn;11.6	2214	305
+Jinxi, Liaoning	China	506000		6.500000e+00	11.3 &plusmn;12.9	11853	306
+Unknown city at lat/lon 43.4, 128.2	China	210000		2.100000e+00	11.3 &plusmn;10.0	12480	307
+Unknown city at lat/lon 35.7, 138.5	Japan	374000		2	11.3 &plusmn;5.4	13698	308
+West Yorkshire	UK	1530000		6	11.2 &plusmn;3.9	1680	309
+Barnaul	Russia	495000		3	11.2 &plusmn;6.1	5508	310
+Rostov-on-Don	Russia	1013000		5.500000e+00	11.2 &plusmn;5.4	3907	311
+Tomsk	Russia	417000		2.400000e+00	11.2 &plusmn;5.7	5414	312
+Unknown city at lat/lon 38.8, 121.3	China	168000		1.800000e+00	11.2 &plusmn;10.4	12167	313
+Unknown city at lat/lon 37.5, 116.3	China	568000		4.900000e+00	11.2 &plusmn;8.6	11492	314
+Unknown city at lat/lon 42.9, 129.5	China	462000		3.500000e+00	11.2 &plusmn;7.5	12750	315
+Unknown city at lat/lon 43.3, -2.0	Spain	199000		2.400000e+00	11.2 &plusmn;12.1	1660	316
+Hamburg	Germany	1700000		6.400000e+00	11.1 &plusmn;3.8	2359	317
+Kurgan	Russia	243000		2.200000e+00	11.1 &plusmn;9.0	5174	318
+Vienna	Austria	1810000		7.700000e+00	11.1 &plusmn;4.2	2813	319
+Blagoveshchensk	Russia	224000		2.200000e+00	11.1 &plusmn;9.7	26108	320
+Orenburg	Russia	420000		3.300000e+00	11.1 &plusmn;7.8	4902	321
+Klintsy	Russia	376000		3	11.1 &plusmn;7.9	3349	322
+Rotterdam	Netherlands	2454000		8.500000e+00	11.1 &plusmn;3.5	1965	323
+Unknown city at lat/lon 35.4, 119.5	China	511000		3.700000e+00	11.0 &plusmn;7.3	12491	324
+Haarlem	Netherlands	258000		2	11.0 &plusmn;7.6	1987	325
+Tambov	Russia	274000		2.300000e+00	11.0 &plusmn;8.4	3829	326
+Unknown city at lat/lon 52.0, -0.8	UK	206000		1.300000e+00	11.0 &plusmn;6.4	1740	327
+Unknown city at lat/lon 45.6, 84.8	China	181000		1.800000e+00	11.0 &plusmn;10.2	6075	328
+Unknown city at lat/lon 36.6, 111.7	China	167000		1.600000e+00	11.0 &plusmn;9.8	10941	329
+Unknown city at lat/lon 40.3, -111.7	USA	253000		2.100000e+00	11.0 &plusmn;8.2	193	330
+Bakersfield	USA	446000		2.900000e+00	11.0 &plusmn;6.5	30	331
+Unknown city at lat/lon 37.6, 120.5	China	181000		1.700000e+00	11.0 &plusmn;9.1	12266	332
+Zurich	Switzerland	647000		3.800000e+00	11.0 &plusmn;5.9	2298	333
+Ul'yanovsk	Russia	309000		2.500000e+00	10.9 &plusmn;8.0	4238	334
+Riverside-San Bernardino	USA	166000		1.400000e+00	10.9 &plusmn;8.7	49	335
+Unknown city at lat/lon 36.5, 114.2	China	325000		2.500000e+00	10.9 &plusmn;7.7	11301	336
+Unknown city at lat/lon 38.3, 140.3	Japan	202000		1.400000e+00	10.9 &plusmn;6.7	13654	337
+Tyumen	Russia	508000		3	10.9 &plusmn;5.9	5138	338
+Zaozhuang	China	538000		3.700000e+00	10.9 &plusmn;6.9	12180	339
+Haifa	Israel	393000		2.400000e+00	10.8 &plusmn;6.2	3938	340
+Unknown city at lat/lon 37.5, 121.3	China	633000		4.300000e+00	10.8 &plusmn;6.7	12426	341
+Ufa	Russia	809000		4.500000e+00	10.8 &plusmn;5.5	4811	342
+Kashi	China	453000		3.300000e+00	10.8 &plusmn;7.3	5722	343
+Kuybyskev	Russia	935000		5	10.8 &plusmn;5.3	4374	344
+Unknown city at lat/lon 51.9, 7.6	Germany	187000		2	10.8 &plusmn;10.6	2191	345
+Unknown city at lat/lon 37.2, 122.4	China	158000		2	10.8 &plusmn;12.8	12701	346
+Langfang	China	507000		4.100000e+00	10.8 &plusmn;8.1	11220	347
+Athens	Greece	3276000		1.190000e+01	10.8 &plusmn;3.6	3165	348
+Saratov	Russia	681000		3.600000e+00	10.8 &plusmn;5.2	4205	349
+Unknown city at lat/lon 37.4, 121.6	China	160000		1.600000e+00	10.8 &plusmn;9.7	12539	350
+Unknown city at lat/lon 52.9, -1.5	UK	230000		1.300000e+00	10.7 &plusmn;5.7	1697	351
+Unknown city at lat/lon 45.6, 122.8	China	280000		3.600000e+00	10.7 &plusmn;12.8	11061	352
+Taegu	South Korea	1918000		8.700000e+00	10.6 &plusmn;4.5	13384	353
+Groningen	Netherlands	159000		1.200000e+00	10.6 &plusmn;7.3	2099	354
+Unknown city at lat/lon 50.4, -4.1	UK	220000		1.700000e+00	10.6 &plusmn;7.7	1583	355
+Birmingham	UK	2374000		7.400000e+00	10.6 &plusmn;3.1	1665	356
+Unknown city at lat/lon 37.8, 140.5	Japan	195000		1.300000e+00	10.6 &plusmn;6.8	13678	357
+Amsterdam	Netherlands	1043000		4.500000e+00	10.5 &plusmn;4.3	1995	358
+Teesport	UK	301000		1.700000e+00	10.5 &plusmn;5.8	1712	359
+Unknown city at lat/lon 32.6, 110.8	China	579000		4.500000e+00	10.5 &plusmn;7.9	11258	360
+Unknown city at lat/lon 52.3, -0.9	UK	189000		1.400000e+00	10.5 &plusmn;7.3	1735	361
+Unknown city at lat/lon 37.5, 112.1	China	434000		2.500000e+00	10.5 &plusmn;5.8	10874	362
+Unknown city at lat/lon 50.8, -1.1	UK	250000		1.500000e+00	10.5 &plusmn;6.2	1717	363
+Bremen	Germany	401000		2.500000e+00	10.5 &plusmn;6.3	2270	364
+Unknown city at lat/lon 36.7, 137.2	Japan	228000		1.300000e+00	10.4 &plusmn;5.8	13615	365
+Ceboksary	Russia	389000		2.900000e+00	10.4 &plusmn;7.4	4086	366
+London	UK	9486000		2.180000e+01	10.4 &plusmn;2.3	1761	367
+Unknown city at lat/lon 53.0, -2.2	UK	318000		4.000000e-01	10.4 &plusmn;1.3	1661	368
+Unknown city at lat/lon 37.4, 121.5	China	227000		2.200000e+00	10.4 &plusmn;9.8	12512	369
+Fushun	China	1230000		7	10.4 &plusmn;5.7	11986	370
+Berlin	Germany	3217000		1.160000e+01	10.4 &plusmn;3.6	2640	371
+Unknown city at lat/lon 51.6, -1.8	UK	171000		2.000000e-01	10.4 &plusmn;1.3	1681	372
+Southampton	UK	329000		2.800000e+00	10.3 &plusmn;8.5	1699	373
+Unknown city at lat/lon 53.8, -3.0	UK	175000		1.400000e+00	10.3 &plusmn;8.1	1624	374
+Unknown city at lat/lon 53.8, -0.4	UK	272000		1.900000e+00	10.3 &plusmn;7.1	1778	375
+Changzhou	China	1285000		5.800000e+00	10.3 &plusmn;4.5	13020	376
+Unknown city at lat/lon 32.5, 119.9	China	453000		3.300000e+00	10.3 &plusmn;7.3	12928	377
+Unknown city at lat/lon 36.2, 138.0	Japan	202000		1.300000e+00	10.2 &plusmn;6.4	13652	378
+Unknown city at lat/lon 29.7, 118.3	China	193000		1.600000e+00	10.2 &plusmn;8.5	12997	379
+Vancouver	Canada	1715000		5.900000e+00	10.2 &plusmn;3.4	188	380
+Liestal	Switzerland	311000		3.300000e+00	10.2 &plusmn;10.5	20912	381
+Ostrava	Czech Republic	222000		1.900000e+00	10.2 &plusmn;8.5	2892	382
+Unknown city at lat/lon 36.3, 120.0	China	396000		2.800000e+00	10.2 &plusmn;7.2	12431	383
+Unknown city at lat/lon 39.8, 98.3	China	183000		1.800000e+00	10.2 &plusmn;9.6	9566	384
+Unknown city at lat/lon 35.6, 111.3	China	243000		2.300000e+00	10.1 &plusmn;9.4	10991	385
+Montreal	Canada	2795000		7.400000e+00	10.1 &plusmn;2.6	931	386
+Unknown city at lat/lon 43.5, 43.6	Russia	215000		2.200000e+00	10.1 &plusmn;10.3	4321	387
+Vladivostok	Russia	462000		3.600000e+00	10.1 &plusmn;7.8	13000	388
+Polygyros	Greece	668000		4.400000e+00	10.1 &plusmn;6.6	3134	389
+Izevsk	Russia	566000		3.400000e+00	10.1 &plusmn;6.0	4378	390
+Taiyuan	China	3517000		1.560000e+01	10.1 &plusmn;4.4	10873	391
+Copenhagen	Denmark	1125000		4.700000e+00	10.1 &plusmn;4.2	2544	392
+Unknown city at lat/lon 42.5, 125.7	China	228000		2.600000e+00	10.1 &plusmn;11.5	12190	393
+Unknown city at lat/lon 32.4, 119.4	China	862000		5.600000e+00	10.1 &plusmn;6.5	12872	394
+Unknown city at lat/lon 36.6, 138.2	Japan	308000		1.600000e+00	10.1 &plusmn;5.3	13647	395
+Unknown city at lat/lon 39.3, 112.4	China	322000		3.800000e+00	10.1 &plusmn;11.8	10697	396
+Unknown city at lat/lon 36.8, 118.3	China	358000		2.800000e+00	10.0 &plusmn;7.9	11988	397
+Cologne	Germany	6942000		1.710000e+01	10.0 &plusmn;2.5	2114	398
+Linyi, Shandong	China	1510000		6.300000e+00	10.0 &plusmn;4.2	12270	399
+Frankfurt	Germany	1035000		4.300000e+00	10.0 &plusmn;4.1	2277	400
+Unknown city at lat/lon 61.3, 63.3	Russia	156000		1.600000e+00	10.0 &plusmn;9.9	4840	401
+Unknown city at lat/lon 37.4, 140.4	Japan	248000		1.400000e+00	10.0 &plusmn;5.4	13693	402
+Saransk	Russia	217000		1.700000e+00	10.0 &plusmn;7.8	4038	403
+Unknown city at lat/lon 36.6, 139.9	Japan	370000		2.100000e+00	10.0 &plusmn;5.7	13706	404
+Unknown city at lat/lon 37.2, 112.2	China	172000		1.900000e+00	9.9 &plusmn;11.0	10916	405
+Unknown city at lat/lon 37.2, 122.0	China	221000		2.600000e+00	9.9 &plusmn;11.9	12645	406
+Unknown city at lat/lon 51.3, -0.8	UK	191000		1.100000e+00	9.9 &plusmn;5.8	1744	407
+Weifang	China	1099000		5.800000e+00	9.9 &plusmn;5.3	12146	408
+Dashkhovuz	Turkmenistan	382000		3.200000e+00	9.9 &plusmn;8.3	5266	409
+Prague	Czech Republic	1129000		4.900000e+00	9.9 &plusmn;4.3	2724	410
+Vladikavkaz	Russia	328000		1.900000e+00	9.9 &plusmn;5.9	4421	411
+Yaskar-Ola	Russia	212000		1.900000e+00	9.9 &plusmn;9.0	4099	412
+Beersheba	Israel	202000		1.900000e+00	9.8 &plusmn;9.3	3954	413
+Unknown city at lat/lon 31.8, 34.7	Israel	172000		1.300000e+00	9.8 &plusmn;7.7	3928	414
+Murmansk	Russia	245000		1.600000e+00	9.8 &plusmn;6.6	3069	415
+Furth	Germany	657000		3.600000e+00	9.8 &plusmn;5.4	2527	416
+Unknown city at lat/lon 36.5, 116.0	China	527000		3.400000e+00	9.8 &plusmn;6.5	11594	417
+Shymkent	Kazakhstan	748000		4.200000e+00	9.8 &plusmn;5.7	5382	418
+Unknown city at lat/lon 51.2, 6.4	Germany	177000		1.100000e+00	9.8 &plusmn;6.1	2108	419
+Jixi, Heilongjiang	China	403000		3	9.7 &plusmn;7.3	12477	420
+Toronto	Canada	5055000		1.150000e+01	9.7 &plusmn;2.3	801	421
+Unknown city at lat/lon 52.0, 8.5	Germany	201000		1.600000e+00	9.7 &plusmn;8.1	2263	422
+Huashan	China	719000		3.900000e+00	9.7 &plusmn;5.4	12832	423
+Muscat	Oman	392000		2.900000e+00	9.6 &plusmn;7.3	5341	424
+Unknown city at lat/lon 33.5, -117.2	USA	193000		1.300000e+00	9.6 &plusmn;6.9	39	425
+Unknown city at lat/lon 36.7, 117.5	China	393000		2.300000e+00	9.6 &plusmn;5.7	11876	426
+Unknown city at lat/lon 50.8, 6.1	Germany	234000		1.700000e+00	9.6 &plusmn;7.1	2073	427
+Unknown city at lat/lon 40.9, 122.7	China	441000		2.700000e+00	9.6 &plusmn;6.1	11999	428
+Unknown city at lat/lon 36.9, 120.5	China	207000		1.800000e+00	9.6 &plusmn;8.5	12420	429
+Unknown city at lat/lon 39.3, 117.8	China	267000		2.200000e+00	9.5 &plusmn;8.3	11435	430
+Unknown city at lat/lon 26.3, 107.5	China	155000		2	9.5 &plusmn;13.0	11453	431
+Johannesburg	South Africa	11049000		1.990000e+01	9.5 &plusmn;1.8	3403	432
+Unknown city at lat/lon 35.8, 115.0	China	566000		3.200000e+00	9.5 &plusmn;5.7	11546	433
+Tangshan	China	1762000		6.700000e+00	9.5 &plusmn;3.8	11418	434
+Sitrah	Bahrain	2044000		5	9.5 &plusmn;2.5	5216	435
+Lausanne	Switzerland	227000		2	9.5 &plusmn;8.7	2149	436
+Manchester	UK	3512000		4.200000e+00	9.5 &plusmn;1.2	1621	437
+Unknown city at lat/lon 40.6, 122.5	China	289000		1.700000e+00	9.4 &plusmn;5.7	12016	438
+Unknown city at lat/lon 18.3, 42.7	Saudi Arabia	333000		3.300000e+00	9.4 &plusmn;10.0	4944	439
+Unknown city at lat/lon 37.4, 118.0	China	379000		2.400000e+00	9.4 &plusmn;6.4	11842	440
+Unknown city at lat/lon 37.2, 119.9	China	237000		2.700000e+00	9.4 &plusmn;11.3	12237	441
+Unknown city at lat/lon 52.3, 10.5	Germany	186000		1.200000e+00	9.4 &plusmn;6.6	2441	442
+Dalian	China	3289000		15	9.4 &plusmn;4.6	12175	443
+Sari	Iran	289000		1.900000e+00	9.4 &plusmn;6.4	5196	444
+Unknown city at lat/lon 36.5, 52.9	Iran	204000		1.700000e+00	9.4 &plusmn;8.2	5187	445
+Unknown city at lat/lon 36.5, 52.4	Iran	179000		9.000000e-01	9.4 &plusmn;5.2	5170	446
+Unknown city at lat/lon 36.5, 52.7	Iran	271000		1.900000e+00	9.4 &plusmn;7.2	5180	447
+Maebashi/Takasaki	Japan	1379000		3.500000e+00	9.4 &plusmn;2.6	13690	448
+Nicosia	Cyprus	236000		1.400000e+00	9.4 &plusmn;6.1	3735	449
+Unknown city at lat/lon 36.9, 121.5	China	167000		1.600000e+00	9.3 &plusmn;9.7	12610	450
+Unknown city at lat/lon 40.0, 118.7	China	215000		1.300000e+00	9.3 &plusmn;5.9	11458	451
+Unknown city at lat/lon 36.2, 117.7	China	731000		3	9.3 &plusmn;4.1	11971	452
+Benxi	China	762000		5.500000e+00	9.3 &plusmn;7.2	12112	453
+Unknown city at lat/lon 31.0, 112.2	China	334000		2.200000e+00	9.3 &plusmn;6.6	11759	454
+Unknown city at lat/lon 51.3, 9.5	Germany	222000		1.700000e+00	9.3 &plusmn;7.7	2353	455
+Unknown city at lat/lon 30.9, 120.6	China	402000		2.400000e+00	9.2 &plusmn;6.0	13138	456
+Unknown city at lat/lon 51.6, -3.0	UK	175000		1.200000e+00	9.2 &plusmn;6.8	1619	457
+Unknown city at lat/lon 49.0, 8.4	Germany	277000		1.900000e+00	9.2 &plusmn;6.8	2273	458
+Esfahan	Iran	2151000		6.900000e+00	9.2 &plusmn;3.2	5195	459
+Unknown city at lat/lon 32.6, 51.3	Iran	170000		1.200000e+00	9.2 &plusmn;7.0	5185	460
+Unknown city at lat/lon 31.4, 119.8	China	344000		2.400000e+00	9.2 &plusmn;6.9	13025	461
+Unknown city at lat/lon 36.3, 111.7	China	161000		1.500000e+00	9.2 &plusmn;9.4	10970	462
+Unknown city at lat/lon 31.3, 119.8	China	179000		1.800000e+00	9.2 &plusmn;10.1	13042	463
+Unknown city at lat/lon 36.9, 118.7	China	311000		2.900000e+00	9.2 &plusmn;9.2	12057	464
+Wuxi	China	12010000		2.580000e+01	9.2 &plusmn;2.1	12992	465
+Smolensk	Russia	302000		1.900000e+00	9.2 &plusmn;6.4	3241	466
+Bloemfontein	South Africa	405000		2	9.2 &plusmn;4.9	3304	467
+Unknown city at lat/lon 52.4, -1.5	UK	382000		2.100000e+00	9.2 &plusmn;5.6	1692	468
+Unknown city at lat/lon 34.8, 117.3	China	217000		1.500000e+00	9.2 &plusmn;6.9	12151	469
+Unknown city at lat/lon 39.7, 141.1	Japan	245000		1.600000e+00	9.2 &plusmn;6.7	13627	470
+Unknown city at lat/lon 27.3, -80.4	USA	170000		8.000000e-01	9.2 &plusmn;5.0	550	471
+Huangshi	China	779000		4.800000e+00	9.2 &plusmn;6.2	12452	472
+Unknown city at lat/lon 50.7, -1.9	UK	346000		1.900000e+00	9.1 &plusmn;5.4	1672	473
+Nazareth	Israel	179000		1.400000e+00	9.1 &plusmn;7.8	3972	474
+Ahvaz	Iran	1271000		6	9.1 &plusmn;4.7	5124	475
+Dublin	Ireland	1005000		4.200000e+00	9.1 &plusmn;4.2	1534	476
+Unknown city at lat/lon 51.9, -0.5	UK	245000		1.800000e+00	9.1 &plusmn;7.2	1769	477
+Unknown city at lat/lon 36.9, 117.7	China	193000		1.100000e+00	9.1 &plusmn;5.8	11893	478
+Unknown city at lat/lon 40.7, 120.8	China	515000		4.100000e+00	9.1 &plusmn;8.0	11680	479
+Yancheng, Jiangsu	China	770000		3.900000e+00	9.1 &plusmn;5.0	12850	480
+Unknown city at lat/lon 56.0, 37.2	Russia	214000		2	9.1 &plusmn;9.2	3398	481
+Unknown city at lat/lon 48.4, 10.9	Germany	300000		1.600000e+00	9.1 &plusmn;5.2	2531	482
+Unknown city at lat/lon 35.6, 117.0	China	272000		2.100000e+00	9.1 &plusmn;7.8	11958	483
+Unknown city at lat/lon 34.7, 109.2	China	162000		1.400000e+00	9.1 &plusmn;8.3	10826	484
+Unknown city at lat/lon 36.2, 116.7	China	337000		2.700000e+00	9.0 &plusmn;8.0	11795	485
+Unknown city at lat/lon 38.3, 116.8	China	601000		3.700000e+00	9.0 &plusmn;6.2	11442	486
+Unknown city at lat/lon 43.9, 81.3	China	385000		2.500000e+00	9.0 &plusmn;6.5	5893	487
+Unknown city at lat/lon 41.2, 80.2	China	243000		2.200000e+00	9.0 &plusmn;9.2	5999	488
+Unknown city at lat/lon 36.4, 119.8	China	425000		2.200000e+00	9.0 &plusmn;5.1	12360	489
+Tianjin	China	7971000		2.040000e+01	9.0 &plusmn;2.6	11319	490
+Unknown city at lat/lon 46.6, 131.1	China	232000		1.600000e+00	8.9 &plusmn;6.8	12144	491
+Leipzig	Germany	426000		2	8.9 &plusmn;4.7	2596	492
+Unknown city at lat/lon 36.0, 119.4	China	400000		2.800000e+00	8.9 &plusmn;7.1	12363	493
+Unknown city at lat/lon 54.9, 23.9	Lithuania	252000		1.600000e+00	8.9 &plusmn;6.4	3047	494
+Nottingham	UK	603000		2.200000e+00	8.9 &plusmn;3.6	1709	495
+Unknown city at lat/lon 34.0, 51.4	Iran	237000		1.600000e+00	8.8 &plusmn;6.6	5171	496
+Unknown city at lat/lon 35.4, 116.9	China	471000		2.700000e+00	8.8 &plusmn;5.8	11975	497
+Unknown city at lat/lon 51.6, 0.6	UK	250000		1.400000e+00	8.8 &plusmn;5.4	1836	498
+Unknown city at lat/lon 38.7, 116.1	China	197000		1.600000e+00	8.8 &plusmn;8.0	11253	499
+Yingkou	China	488000		3.200000e+00	8.8 &plusmn;6.6	11964	500
