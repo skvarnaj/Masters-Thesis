@@ -1,5 +1,5 @@
 ## Masters Degree Thesis
-My masters degree thesis studies what political characteristics of cities lead to lower CO2 emissions per capita (specifically political party of mayor/governor, citizen partisanship leaning, and governor/mayoral support for Paris climate agreement). And secondarily, how citizen partisan leaning influences support for Paris climate agreement on a state vs city level.
+My masters degree thesis studies how governor/mayoral government political party membership and state/city partisan leaning affect CO2 emissions per capita and how state/city partisan leaning affects support for federal climate legislation.
 
 ## What technologies I used
 I used Python's pandas for preprocessing 8 datasets. I also set up 2 webscrapers using BS4 and URLLIB. I then used Python's ML frameworks, statsmodel and sklearn, for my analysis. In my analysis I used Linear and Logistic Regression.
