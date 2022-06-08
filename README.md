@@ -1,5 +1,5 @@
 ## Masters Degree Thesis
-My masters degree thesis studies how 1) city/state political leaning affect CO2 emissions per capita and 2) city/state political leaning affect support for federal climate legislation. It also compares the differences found between cities and states to discuss environmental policy within the scope of US federalism.
+My masters degree thesis studies 1) How city/state political leaning affect CO2 emissions per capita and 2) How city/state political leaning affect support for federal climate legislation. It also compares the differences found between cities and states to discuss environmental policy within the scope of US federalism.
 
 ## What technologies I used
 I used Python's pandas for preprocessing 8 datasets. I also set up 2 webscrapers using BS4 and URLLIB. For visualizations I used Python's Seaborn and Matplotlib. I then used Python's statistical and ML frameworks, statsmodel and sklearn, for my analysis. In my analysis I used Linear and Logistic Regression.
