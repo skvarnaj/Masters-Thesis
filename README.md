@@ -1,4 +1,4 @@
-# Link to full paper
+## Link to full paper
 http://hdl.handle.net/20.500.12680/w0892h49v 
 
 ## Masters Degree Thesis
