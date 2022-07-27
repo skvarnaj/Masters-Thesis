@@ -1,3 +1,6 @@
+# Link to full paper
+http://hdl.handle.net/20.500.12680/w0892h49v 
+
 ## Masters Degree Thesis
 My masters degree thesis studies 1) how city/state political leaning affect CO2 emissions per capita and 2) how city/state political leaning affect support for federal climate legislation. It also compares the differences found between cities and states to discuss environmental policy within the scope of US federalism.
 
